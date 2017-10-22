@@ -15,6 +15,7 @@ namespace Коровы
 
         public static string CowCounter(int n)
         {
+            /// dsfds
             int lastDigit = n % 10;
             int lastTwoDigits = n % 100;
             string result = string.Empty;
